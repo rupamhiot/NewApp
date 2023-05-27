@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Marco della Cava, USA TODAY",
+            "title": "Lisa Marie Presley, the only child of Elvis, dies at 54 after a brief hospitalization - USA TODAY",
+            "description": "Lisa Marie Presley, the only child of Elvis, has died at age 54 after a brief hospitalization, her mother, Priscilla Presley, announced late Thursday.",
+            "url": "https://www.usatoday.com/story/entertainment/music/2023/01/13/lisa-marie-presley-elvis-daughter-dead/11043024002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/13/USAT/3fa74094-3110-428a-97b5-607a05a5acf8-TVOTW_LISA-MARIE-PRESLEY046.JPG?auto=webp&crop=4255,2394,x0,y213&format=pjpg&width=1200",
+            "publishedAt": "2023-01-14T13:51:12Z",
+            "content": "Lisa Marie Presley, the only child of Elvis Presley, has died at age 54.\r\n“It is with a heavy heart that I must share the devastating news that my beautiful daughter Lisa Marie has left us,” Priscill… [+7103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "UK to send Challenger 2 tanks to Ukraine, Rishi Sunak confirms - BBC",
+            "description": "Rishi Sunak confirms the tanks will be provided during a call with President Zelensky.",
+            "url": "https://www.bbc.com/news/uk-64274755",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BE1D/production/_128296684_gettyimages-1426998428.jpg",
+            "publishedAt": "2023-01-14T13:50:38Z",
+            "content": "The UK is to send Challenger 2 tanks to Ukraine to bolster the country's war effort, Prime Minister Rishi Sunak has said.\r\nHe spoke to Ukraine's President Volodymyr Zelensky in a call on Saturday, du… [+3434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Linda Codega",
+            "title": "Cancelled D&D Beyond Subscriptions Forced Hasbro's Hand - Gizmodo",
+            "description": "Swift consumer action prompted Dungeons & Dragons publisher Wizards of the Coast to to scrap licensing updates. The players aren't done yet.",
+            "url": "https://gizmodo.com/dungeons-dragons-wizards-hasbro-ogl-open-game-license-1849981136",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fe060062b4a952b59a3c56a0de271c14.png",
+            "publishedAt": "2023-01-14T13:00:00Z",
+            "content": "Dungeons &amp; Dragons publisher Wizards of the Coast finally broke its silence regarding the games Open Game License on Friday, attempting to calm tensions in the D&amp;D community and answer questi… [+9693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Thunderstorms enter forecast for Seahawks-49ers - NBC Sports",
+            "description": "Weather will be an issue today in Santa Clara, where the 49ers host the Seahawks in the first game of the wild-card round. That has been known for days. Now, based on the forecast available at Weather.com, a new wrinkle has trickled into the mix.Thunderstorms…",
+            "url": "https://profootballtalk.nbcsports.com/2023/01/14/thunderstorms-enter-forecast-for-seahawks-49ers/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/01/GettyImages-1236306011-e1673700009606.jpg",
+            "publishedAt": "2023-01-14T12:40:00Z",
+            "content": "Weather will be an issue today in Santa Clara, where the 49ers host the Seahawks in the first game of the wild-card round. That has been known for days. Now, based on the forecast available at Weathe… [+706 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian missiles strike vital infrastructure in Kyiv and Kharkiv - Reuters",
+            "description": "Russian missile attacks hit critical infrastructure in Kyiv and the eastern city of Kharkiv on Saturday morning, and a utility company imposed emergency power cuts in the capital and two other regions.",
+            "url": "https://www.reuters.com/world/europe/russian-missile-attack-hits-infrastructure-kyiv-officials-2023-01-14/",
+            "urlToImage": "https://www.reuters.com/resizer/5vCz4zbXf0HzV_gWotvAOoTGL2Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W6EEUUCMLBITXKFKF6GDSXMM3U.jpg",
+            "publishedAt": "2023-01-14T12:17:00Z",
+            "content": "KYIV, Jan 14 (Reuters) - Russian missile attacks hit critical infrastructure in Kyiv and the eastern city of Kharkiv on Saturday morning, and a utility company imposed emergency power cuts in the cap… [+3368 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Ian Rapoport",
+            "title": "Ravens' stance on signing QB Lamar Jackson long-term hasn’t changed despite injury - NFL.com",
+            "description": "Despite Ravens quarterback Lamar Jackson potentially missing the final game of the season due to injury for the second straight year, Baltimore has not changed its stance on wanting to sign him to a long-term deal.",
+            "url": "https://www.nfl.com/news/ravens-stance-on-signing-qb-lamar-jackson-long-term-hasn-t-changed-despite-injur",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/xaoaeoqg62ln9thoc2am",
+            "publishedAt": "2023-01-14T12:00:00Z",
+            "content": "For the second consecutive year, the Ravens face the prospect of their electric QB watching their final game from the sidelines. Last year, it was a bone bruise to his ankle. This year, a PCL sprain.… [+1859 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Peru protests: President Boluarte 'will not resign' despite weeks of violence - BBC",
+            "description": "Weeks of violent anti-government protests have brought large parts of the country to a standstill.",
+            "url": "https://www.bbc.com/news/world-latin-america-64274088",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/154E5/production/_128296278_perulimaprotests-1246195430.jpg",
+            "publishedAt": "2023-01-14T11:51:07Z",
+            "content": "Peru's President Dina Boluarte has refused to step down despite weeks of anti-government protests rocking the deeply divided country. \r\n\"I will not resign. My commitment is with Peru,\" she said in a … [+2167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": "Daniel Petrov",
+            "title": "Samsung Galaxy S23 preorder reservations are live, score an S23 Ultra deal! - PhoneArena",
+            "description": "Samsung has opened the Galaxy S23 series preorder reservations with early bird deals.",
+            "url": "https://www.phonearena.com/news/samsung-galaxy-s23-preorder-reservations-offer_id144719",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/144719-wide-two_1200/Samsung-Galaxy-S23-preorder-reservations-are-live-score-an-S23-Ultra-deal.jpg",
+            "publishedAt": "2023-01-14T11:10:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tina Burnside, Aya Elamroussi",
+            "title": "A single winning ticket for Friday's $1.35 billion Mega Millions jackpot drawing was sold in Maine - CNN",
+            "description": "One ticket sold in Maine beat the eerie odds of Friday the 13th and is set to claim the Mega Millions jackpot of about $1.35 billion, the lottery said.",
+            "url": "https://www.cnn.com/2023/01/14/us/mega-millions-jackpot-winner-saturday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230114003409-01-mega-millions-011323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-14T10:50:00Z",
+            "content": "One ticket sold in Maine beat the eerie odds of Friday the 13th and is set to claim the Mega Millions jackpot of about $1.35 billion, the lottery said.\r\nFriday nights winning numbers were 30-43-45-46… [+2022 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura Paddison",
+            "title": "Germany plans to destroy this village for a coal mine. Thousands are gathering to stop it - CNN",
+            "description": "It's a stark image in 2023: Police in riot gear flooding a village, pulling people out of houses and tearing down structures to make way for the arrival of excavating machines to access the rich seam of coal beneath the ground.",
+            "url": "https://www.cnn.com/2023/01/14/europe/lutzerath-germany-coal-protests-climate-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230113124008-01-lutzerath-germany-coal-mine-climate-intl-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-14T08:45:00Z",
+            "content": "Its a stark image in 2023: Police in riot gear flooding a village, pulling people out of houses and tearing down structures to make way for the arrival of excavating machines to access the rich seam … [+5758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Iran executes British-Iranian national despite UK, U.S. pleas - CNBC",
+            "description": "British Foreign Secretary James Cleverly said late on Friday Iran must not follow through with the execution - a call echoed by the U.S. State Department.",
+            "url": "https://www.cnbc.com/2023/01/14/iran-executes-british-iranian-national-despite-uk-us-pleas.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106798860-16057137852020-11-18t152534z_1698324403_rc2r5k9dc4pn_rtrmadp_0_usa-iran-sanctions.jpeg?v=1673683842&w=1920&h=1080",
+            "publishedAt": "2023-01-14T08:10:42Z",
+            "content": "Iran has executed British-Iranian national Alireza Akbari, the judiciary's Mizan news agency reported on Saturday, after sentencing the former Iranian deputy defense minister to death on charges of s… [+2720 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Oliver O'Connell",
+            "title": "Trump’s deposition unsealed in rape accuser lawsuit as his organization fined $1.6m – latest news - The Independent",
+            "description": "All the latest developments from Trumpworld",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-organization-fined-rally-e-jean-carroll-1990-b2262196.html",
+            "urlToImage": "https://static.independent.co.uk/2022/12/31/18/urnpublicidap.orgc005bd50b0c343ce96a57cb3a1e77573.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-01-14T08:00:00Z",
+            "content": "ICYMI: Donald Trumps company fined $1.6m for years-long tax fraud scheme\r\nponymous company has been fined $1.6m after a New York City jury convicted two Trump Organization subsidiaries on charges ste… [+1117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Riley Cardoza",
+            "title": "Chrissy Teigen gives birth, welcomes baby boy with John Legend - Page Six",
+            "description": "Twelve-time Grammy winner John Legend announced the happy news at a private concert Friday, revealing that the pair welcomed a rainbow baby.",
+            "url": "https://pagesix.com/2023/01/14/chrissy-teigen-gives-birth-to-baby-boy-with-john-legend/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/08/chrissy-teigen-john-legend-17.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-01-14T06:27:00Z",
+            "content": "Chrissy Teigen and John Legend’s rainbow baby has arrived.\r\nThe “Chrissy’s Court” star gave birth on Friday, January 13 — officially making the Legend clan a party of five!\r\nThe 12-time Grammy Award … [+2541 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Google Stadia Has Released One Final Game Ahead of Its Shut Down On January 18 - IGN",
+            "description": "Google Stadia is officially shutting down on January 18, and the team behind the video game streaming service has gifted the world Worm Game, the final title that will be released for the platform and one that was used to test many of Stadia's features before…",
+            "url": "https://www.ign.com/articles/google-stadia-has-released-one-final-game-ahead-of-its-shut-down-on-january-18",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/01/14/snak1-1673673365898.png?width=1280",
+            "publishedAt": "2023-01-14T05:27:45Z",
+            "content": "Google Stadia is officially shutting down on January 18, and the team behind the video game streaming service has gifted the world Worm Game, the final title that will be released for the platform an… [+2750 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Zelenskyy mocks Russian forces fighting for ‘credit’ over Soledar - Al Jazeera English",
+            "description": "Head of the Wagner mercenary group had accused Russia’s military establishment of trying to ‘steal victory’ in Soledar.",
+            "url": "https://www.aljazeera.com/news/2023/1/14/zelenskyy-mocks-russian-forces-fighting-for-credit-over-soledar",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/AP23011353720510.jpg?resize=1920%2C1336",
+            "publishedAt": "2023-01-14T03:01:49Z",
+            "content": "Ukrainian President Volodymyr Zelenskyy has mocked infighting between the Russian defence ministry and the Wagner mercenary group over who should take credit for efforts to seize the town of Soledar,… [+4433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Joanna Ossinger",
+            "title": "Bitcoin Surges Above $21,000 Amid Optimism Around Inflation, FTX - Yahoo Finance",
+            "description": "(Bloomberg) -- Bitcoin surged over $21,000 on Saturday amid optimism that it may have bottomed and inflation may have peaked.Most Read from BloombergPfizer...",
+            "url": "https://finance.yahoo.com/news/bitcoin-surges-above-21-000-024352241.html",
+            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/7a60e0f9b62d26bbb54e7ca949298f56",
+            "publishedAt": "2023-01-14T02:43:00Z",
+            "content": "(Bloomberg) -- Bitcoin surged over $21,000 on Saturday amid optimism that it may have bottomed and inflation may have peaked.\r\nMost Read from Bloomberg\r\nThe largest cryptocurrency rose as much as 7.5… [+2020 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Ruiz, Stephanie Pagones",
+            "title": "Idaho murders suspect Bryan Kohberger’s grad program had access to ‘crime lab’ with camera streams: insider - Fox News",
+            "description": "Bryan Kohberger's, Idaho murder suspect, Ph.D. program at WSU maintains access to a \"crime lab\" database of bodycam videos and live streams from security cameras, a source says.",
+            "url": "https://www.foxnews.com/us/idaho-murders-suspect-bryan-kohbergers-grad-program-had-access-crime-lab-camera-streams-insider",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Kohberger-split.jpg",
+            "publishedAt": "2023-01-14T02:09:00Z",
+            "content": "EXCLUSIVE: PULLMAN, Wash. Bryan Kohberger's doctoral program at Washington State University maintains access to a \"crime lab\" database of police bodycam videos as well as live streams from security c… [+12530 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": "Aria Gmitter",
+            "title": "The Love Horoscope For Each Zodiac Sign On Saturday, January 14, 2023 - YourTango",
+            "description": "The love horoscope of each zodiac sign in astrology is here for Saturday, January 14, 2023. Here's what is happening in love and what advice is best for your relationships, per astrology.",
+            "url": "https://www.yourtango.com/2023357786/love-horoscope-each-zodiac-sign-saturday-january-14-2023",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/love-horoscope-saturday-january-14-2023.jpeg?itok=zVh_SY9x",
+            "publishedAt": "2023-01-14T02:03:45Z",
+            "content": "The love horoscope of each zodiac sign in astrology is here for Saturday, January 14, 2023. Here's what is happening in love and what advice is best for your relationships, per astrology.\r\nRELATED: T… [+3564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2023 NFL playoff schedule, bracket: Dates, times, TV, streaming for every round of the AFC and NFC postseason - CBS Sports",
+            "description": "Here are the dates and times for every round of the NFL playoffs",
+            "url": "https://www.cbssports.com/nfl/news/2023-nfl-playoff-schedule-bracket-dates-times-tv-streaming-for-every-round-of-the-afc-and-nfc-postseason/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/09/218a444e-9c56-4a42-922c-d545a0d2c85d/thumbnail/1200x675/b5f41bb7a8b49192e067ca41af7faecc/2022bracket-sea.png",
+            "publishedAt": "2023-01-14T02:02:00Z",
+            "content": "After a wild season, the NFL playoffs are finally here and if you like rematches, then you're definitely going to love what the NFL has in store for Super Wild Card Weekend beginning on Saturday. \r\nA… [+4395 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Japan, US and Europe must act together on China, PM Kishida says - Al Jazeera English",
+            "description": "If Russia’s use of force goes ‘unchallenged, it will happen elsewhere in the world, including Asia’, Japan’s PM says.",
+            "url": "https://www.aljazeera.com/news/2023/1/14/japan-us-and-europe-must-act-together-on-china-pm-kishida-says",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/2023-01-13T223917Z_1687115258_RC2SPY9779L6_RTRMADP_3_USA-JAPAN-NASA-1.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-01-14T01:19:36Z",
+            "content": "Japan, the United States and Europe must act in unison on China, Japanese Prime Minister Fumio Kishida said in Washington, DC, during a visit aimed at enhancing Tokyos alliance with the US in the fac… [+2799 chars]"
+        }
+    ]
+}
